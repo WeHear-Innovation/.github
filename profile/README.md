@@ -6,10 +6,10 @@ WeHear Innovation is India’s first hearing care company, developing cutting-ed
 
 ### 🌟 Vision & Mission
 
-**Vision:**  
+**👁️ Vision:**  
 Our vision is to make hearing care **affordable and accessible to all**.
 
-**Mission:**  
+**🚀 Mission:**  
 We are committed to developing technologies that **prevent lifestyle hearing loss** and provide **non-surgical solutions** for hearing-impaired individuals.
 
 ### 🎯 What We Do
@@ -28,5 +28,5 @@ A **multilingual conference app** that **translates speech in real-time** into t
 
 ### 🌐 Connect with Us
 - **Website:** [https://wehearglobal.com](https://wehearglobal.com)
-- **LinkedIn:** [WeHear Global on LinkedIn](https://www.linkedin.com/company/wehear-global)
+- **LinkedIn:** [WeHear Global on LinkedIn](https://www.linkedin.com/company/wehearofficial)
 - **Contact:** Reach out to us for partnerships, collaborations, or inquiries at info@wehearglobal.com
