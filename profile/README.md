@@ -17,8 +17,8 @@ At **WeHear**, we strive to provide **ear-health-friendly hearing solutions** po
 
 ### 🏆 Our Products
 
-#### 🎧 WeHear OX
-Our flagship product, WeHear OX, is a **next-generation hearing device** designed to amplify sound with clarity while protecting your ear health.
+#### 🎧 WeHear
+Our flagship product, WeHear, is a **next-generation hearing device** designed to amplify sound with clarity while protecting your ear health.
 
 #### 📲 WeConverse
 A **multilingual conference app** that **translates speech in real-time** into the listener’s preferred language, facilitating effortless communication globally.
